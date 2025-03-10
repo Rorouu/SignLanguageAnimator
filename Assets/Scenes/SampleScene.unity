@@ -313,6 +313,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ffinanimator
       objectReference: {fileID: 0}
+    - target: {fileID: 2563496969622287784, guid: 5080d35ac68b5b64da41fd93d5c85873, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.2184449
+      objectReference: {fileID: 0}
     - target: {fileID: 5866666021909216657, guid: 5080d35ac68b5b64da41fd93d5c85873, type: 3}
       propertyPath: m_Avatar
       value: 
