@@ -891,7 +891,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: d0bd4c91fcef66143a2433ce852d941a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.524497
+      value: -3.615
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d0bd4c91fcef66143a2433ce852d941a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -899,7 +899,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d0bd4c91fcef66143a2433ce852d941a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 29.209652
+      value: 29.287
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d0bd4c91fcef66143a2433ce852d941a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1016,6 +1016,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d0bd4c91fcef66143a2433ce852d941a, type: 3}
       propertyPath: m_Name
       value: Character base clothes
+      objectReference: {fileID: 0}
+    - target: {fileID: 1189529853000058984, guid: d0bd4c91fcef66143a2433ce852d941a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.02659789
       objectReference: {fileID: 0}
     - target: {fileID: 2563496969622287784, guid: d0bd4c91fcef66143a2433ce852d941a, type: 3}
       propertyPath: m_LocalPosition.x
