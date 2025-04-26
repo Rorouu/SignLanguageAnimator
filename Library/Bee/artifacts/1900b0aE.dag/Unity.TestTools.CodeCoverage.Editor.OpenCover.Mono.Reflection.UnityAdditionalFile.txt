@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-C:\Users\Lenovo\Documents\grad project\app\SignLanguageAnimator
-=======
-D:\graduation_rere\SignLanguageAnimator
->>>>>>> efe26fdad76c695e92e0cdf809eb0a1456d84e0c
+C:\Users\Lenovo\Desktop\SignLanguageAnimator
